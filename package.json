@@ -1,0 +1,14 @@
+{
+  "name": "typescript-desafios",
+  "version": "1.0.0",
+  "description": "desafios-typescript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "author": "Galaxiius",
+  "license": "ISC",
+  "lite-server":"^2.6.1"
+}
